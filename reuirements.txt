@@ -1,0 +1,7 @@
+asgiref==3.7.2
+django-environ==0.10.0
+Django==4.2.2
+psycopg2-binary==2.9.6
+setuptools==67.8.0
+sqlparse==0.4.4
+wheel==0.40.0
